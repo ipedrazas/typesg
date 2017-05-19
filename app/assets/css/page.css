@@ -1,0 +1,16 @@
+body{
+    padding: 60px;
+    background-color: whitesmoke;
+    /*font-family: 'Architects Daughter', cursive;*/
+   
+}
+
+.writer{
+ font-family: 'Nothing You Could Do', cursive;
+ font-size: 60px;
+ height: 800px;
+ padding: 30px;
+ text-align: center;
+ outline: none;
+ line-height: 1.5;
+}
